@@ -1,6 +1,7 @@
 # 🚀 Deploy ML Models in Production with FastAPI & Docker
 
 ![alt text](production.png)
+
 ---
 Welcome to **Deploy ML Models in Production with FastAPI & Docker**, a comprehensive hands-on course created by **Uditya Narayan Tiwari** to help learners master the complete Machine Learning deployment lifecycle. This repository is designed to bridge the gap between building machine learning models and deploying them as scalable, production-ready applications.
 
