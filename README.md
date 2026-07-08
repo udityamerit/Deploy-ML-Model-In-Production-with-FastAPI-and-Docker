@@ -27,6 +27,7 @@ By the end of this course, you'll have the knowledge and practical experience to
 ## 👨‍💻 Author
 
 **Uditya Narayan Tiwari**
+
 B.Tech (CSE - AI & ML) | Machine Learning & Generative AI Enthusiast
 
 - 🌐 [My Portfolio](https://udityanarayantiwari.netlify.app/)
