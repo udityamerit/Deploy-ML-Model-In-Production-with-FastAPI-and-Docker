@@ -1,2 +1,6 @@
 03 Managing AWS EC2 Servers with Boto3/creds/
 *.pem
+
+# Ignore generated model output and training logs
+05 Sentiment Classification Using TinyBERT Transformer/tinybert_sentiment_analysis/
+05 Sentiment Classification Using TinyBERT Transformer/train_dir/
